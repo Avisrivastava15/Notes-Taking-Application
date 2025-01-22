@@ -27,6 +27,7 @@ Click the trash icon (🗑️) in the note's toolbar to delete the note permanen
 Saved notes are loaded automatically when the app is reopened or refreshed.
 
 **Technologies Used**
+
 HTML: Provides the structure of the application.
 CSS: Styles the app with a modern and responsive design.
 JavaScript: Implements functionality for adding, saving, deleting, and persisting notes using localStorage.
